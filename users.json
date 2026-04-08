@@ -1,0 +1,30 @@
+[
+    {
+        "id": "f2dc729f-df28-4172-81ca-b1e46b6109b4",
+        "username": "sjcourdy",
+        "password_hash": "ccccd2e117fc6b7e0df41ef8b6b50283$07f8408e4c2f60a2342697d2dc1035d0f30403e0430c5767f53b1c8cd30c87d5",
+        "role": "1",
+        "created_at": "2026-03-09T21:37:48.208245"
+    },
+    {
+        "id": "fda30efe-2bae-44b0-8881-44d468445298",
+        "username": "s",
+        "password_hash": "2193492751dd48a927a3b9834705699e$1035c9128b3eebf1620bc740447e81fb9bb065057424f6911ed2beddec6e8751",
+        "role": "1",
+        "created_at": "2026-03-25T19:17:18.482098"
+    },
+    {
+        "id": "42df158f-0aa7-4f03-adc9-1f8f723dc2dd",
+        "username": "",
+        "password_hash": "22313bd82d062ab29a212a7347ea169b$e5399a5a48fa45f63c83f9eb324e0640f6ff1272031bcb0b1997b0a9c0f64ef1",
+        "role": "Investigator",
+        "created_at": "2026-04-06T17:41:54.340657"
+    },
+    {
+        "id": "aa52a8f0-1531-4f9c-8a83-998e7d977241",
+        "username": "sc",
+        "password_hash": "94dbaf629d218e97e14ce3a6a49402cb$832aa95c67e3d7e9145e5562cc6ccadcef3028936a7d067014d5d44e3d95304a",
+        "role": "Investigator",
+        "created_at": "2026-04-06T17:41:54.340657"
+    }
+]
