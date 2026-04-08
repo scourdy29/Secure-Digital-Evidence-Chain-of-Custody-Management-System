@@ -1,30 +1,3 @@
 [
-    {
-        "evidence_id": 1,
-        "title": "Murder",
-        "description": "Murder on 1800 College Ave",
-        "created_by": "s",
-        "timestamp": "2026-03-25 14:23:06.142450"
-    },
-    {
-        "evidence_id": 2,
-        "title": "Robbery",
-        "description": "College student gets robbed",
-        "created_by": "s",
-        "timestamp": "2026-03-25 14:29:02.696597"
-    },
-    {
-        "evidence_id": 3,
-        "title": "Theft",
-        "description": "Robbed apartment",
-        "created_by": "s",
-        "timestamp": "2026-03-26 10:35:15.303406"
-    },
-    {
-        "evidence_id": 4,
-        "title": "GTA",
-        "description": "Stolen vehicle S67 673W on Harrisson St. and 22nd.",
-        "created_by": "s",
-        "timestamp": "2026-03-26 10:42:12.285210"
-    }
+    
 ]
